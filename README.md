@@ -1,3 +1,3 @@
 # excel-com-IA
-Aprendendo Excel com IA
-O curso foi muito proveitoso. Reforcei conceitos de Excel e aprendi muitos outros conceitos básicos. O Felipão tem uma ótima didádica.
+Introdução ao Excel com Inteligência Artificial.
+O curso foi/está sendo muito proveitoso. Reforcei conceitos de Excel e aprendi muitos outros conceitos básicos e que serão muito úteis no meu dia a dia do trabalho. Sempre tive muita curiosidade e vontade de elaborar tabelas que possuem comandos mais complexos. Agora com a inserção da ferramenta de IA, essa minha pedência de aprendizado se tornou inadiável. O Felipão tem uma didádica incrível e sempre vai repetindo os conceitos para melhor fixação. Durante o curso, fui desenvolvendo as tabelas dos exemplos mostrados ao mesmo tempo que reprodução dos vídeos, para melhor fixação com a prática. O desfio final foi muito bom para desenvolver uma ferramenta (a qual preferi somente salvar e disponibilizar aqui em formato .pdf para assegurar que foi feita como exercício) que será muito útil para mim e para ajudar (R$) outras pessoas com isso. Iria aperfeiçoá-la com outras informações de investimentos. Muito Obrigada equipe Santander e DIO.
